@@ -1,0 +1,18 @@
+body {
+  background-image: url("https://static01.nyt.com/images/2019/12/19/sports/19pipeline/merlin_166197120_e754473c-9746-4119-bf0d-b703dd42da64-articleLarge.jpg?quality=75&auto=webp&disable=upscale");
+  background-size: cover;
+  color: darkgreen;
+}
+
+h1, h2 {
+  font-family: 'Lacquer', sans-serif;
+}
+
+p {
+  font-family: 'Squada One', sans-serif;
+}
+
+img {
+  float: left;
+  width: 200px;
+}
